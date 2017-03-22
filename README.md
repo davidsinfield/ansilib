@@ -8,6 +8,7 @@ It has been tested on
   xcfe on raspian and ubuntu 14.04 and 16.04, 
   gnome-terminal on ubuntu 14.04 and 16.04
   lxde on raspian
+  
 This version will through a dictionary item not found error if the parameters passed are out of range.
 See comments in code for the permitted values.
 
